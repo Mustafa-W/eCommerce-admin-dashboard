@@ -311,7 +311,7 @@ const Ecommerce = () => {
               <p className="font-semibold text-lg">SI coming soon!</p>
               <p className="text-gray-400 ">By Le Perfume</p>
               <p className="mt-8 text-sm text-gray-400">
-              Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
+                Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
               </p>
               <div className="mt-3">
                 <Button
